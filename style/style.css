@@ -28,6 +28,13 @@
     font-size: 18px;
     font-family: Poppins;
     margin: 35px 0;
+    color: #3E3E3E;
+ }
+ #headerParagraph2 {
+    font-size: 16px;
+    font-family: Poppins;
+    margin: 35px 0;
+    color: #434343;
  }
  header a {
     font-size: 18px;
@@ -63,7 +70,7 @@
     padding: 0 100px;
     display: flex;
 }
-# myMission h1 {
+#myMission h1 {
     display: none;
 }
 .missionSubSection {
@@ -93,3 +100,12 @@
 }
 
  /* End CSS of section-1 */
+
+
+ /*--------------------------------------
+        Start CSS of section-2
+ -------------------------------------*/
+ 
+
+ 
+ /* End CSS of section-2 */
