@@ -2,49 +2,6 @@
       Start CSS of header section 
  -------------------------------------*/
 
-header {
-    display: flex;
-    margin: 50px 100px;
-}
-.headerSection {
-    width: 36.4%;
-    margin-left: 30px;
-}
-#headerSubSection1 {
-    margin-top: 20px;
-    /* width: 85%; */
-}
-#headerSubSection2 {
-    margin-top: 20px;
-    margin-left: 20px;
-    /* width: 15%; */
-}
-.headerTitle {
-    font-size: 60px;
-    font-family: yeseva one;
-    margin: 20px 0;
-}
-#headerTitle1 {
-    color: #333333;
-}
-#headerTitle2 {
-    color: #FFAD5A;
-}
-p {
-    font-size: 18px;
-    font-family: poppins;
-}
-header a {
-    text-decoration: none;
-    font-size: 16px;
-    color: #FFFFFF;
-    background-color: #FF5959;
-    padding: 10px 40px;
-    border-radius: 5px;
-}
-#personPhoto {
-    width: 95%;
-    margin-left: 150px;
-}
+ 
 
 /* End CSS of header section */
