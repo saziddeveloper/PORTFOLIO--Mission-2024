@@ -75,7 +75,6 @@
 }
 .missionSubSection {
     width: 100%;
-    background-color: #4F9DA6;
     border-radius: 20px;
     padding: 20px 32px 40px 28px;
 }
@@ -84,6 +83,14 @@
 }
 #missionSubSection1 {
     margin-right: 25px;
+    background-color: #4f9da610;
+}
+#missionSubSection2 {
+    margin-right: 25px;
+    background-color: #FF595910;
+}
+#missionSubSection3 {
+    background-color: #FFF4D6;
 }
 .missionSubSection img {
     width: 140px;
