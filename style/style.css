@@ -197,6 +197,94 @@
         Start CSS of section-4
  -------------------------------------*/
 
- 
+ #section-4 {
+    margin-bottom: 30px;
+    padding: 65px 100px;
+}
+#section-4 h1 {
+    font-size: 36px;
+    font-weight: 700;
+    font-family: Poppins;
+    text-align: center;
+    margin-bottom: 100px;
+}
+#section-4 span {
+    color: #FFAD5A;
+}
+#section-4-subSection {
+    display: flex;
+}
+#section-4-subSection h1 {
+    font-size: 48px;
+    font-weight: 700;
+    font-family: Poppins;
+}
+#section-4-subSection span {
+    color: #FFAD5A;
+}
+#imageContainer {
+    margin-left: 80px;
+    padding: 40px;
+    background-image: url(../images/shapes/shape-3.png), url(../images/shapes/shape-3.png), url(../images/shapes/shape-3.png);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-size: 165px, 100px, 100px;
+    background-position: left top, 90% 70%, 10% 90%;
+}
+#section-4-subSection img {
+    width: 320px;
+}
+#section-4-details {
+    padding: 100px 0 0px 130px;
+}
+#section-4-details h2 {
+    font-size: 48px;
+    font-weight: 700;
+    font-family: Poppins;
+    margin-bottom: 0;
+}
+#section-4-details p {
+    font-size: 18px;
+    font-family: Poppins;
+    color: #3E3E3E;
+    margin-bottom: 30px;
+}
+#section-4-subSection a {
+    font-size: 18px;
+    font-family: Poppins;
+    color: #FFFFFF;
+    background-color: #FF5959;
+    padding: 10px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+}
 
-  /* End CSS of section-3 */
+/* End CSS of section-3 */
+
+
+/*--------------------------------------
+        Start CSS of footer section
+ -------------------------------------*/
+
+footer {
+    width: 100%;
+    height: 175px;
+    background-color: #0B0D17;
+}
+footer h2 {
+    color: #FFFFFF;
+    font-size: 36px;
+    font-family: Lobster;
+    text-align: center;
+    padding-top: 35px;
+}
+footer h2 span {
+    color: #FF5959;
+}
+footer p {
+    color: #D9DBE1;
+    font-family: Manrope;
+    font-size: 14px;
+    text-align: center;
+}
+
+/* End CSS of footer section */
