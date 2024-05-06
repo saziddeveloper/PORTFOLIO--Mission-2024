@@ -49,6 +49,47 @@
         Start CSS of section-1
  -------------------------------------*/
 
-
+#section-1 h1 {
+    font-size: 48px;
+    font-weight: 700;
+    font-family: Poppins;
+    text-align: center;
+    color: #13103A;
+}
+#section-1 h1 span {
+    color: #FFAD5A;
+}
+#myMission {
+    padding: 0 100px;
+    display: flex;
+}
+# myMission h1 {
+    display: none;
+}
+.missionSubSection {
+    width: 100%;
+    background-color: #4F9DA6;
+    border-radius: 20px;
+    padding: 20px 32px 40px 28px;
+}
+.missionSubSection  img {
+    margin-left: -20px;
+}
+#missionSubSection1 {
+    margin-right: 25px;
+}
+.missionSubSection img {
+    width: 140px;
+}
+.missionTitle {
+    font-size: 24px;
+    font-family: Poppins;
+    font-weight: 600;
+}
+.missionDetails {
+    font-size: 16px;
+    font-family: Poppins;
+    color: #424242;
+}
 
  /* End CSS of section-1 */
