@@ -113,6 +113,90 @@
         Start CSS of section-2
  -------------------------------------*/
  
-
+#section-2 {
+    padding: 65px 100px;
+    display: flex;
+    background-image: url(../images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: left;
+}
+#section-2 img {
+    width: 400px;
+}
+#section-2-details {
+    margin: 15px 0 0px 60px;
+}
+#section-2-details h2 {
+    font-size: 36px;
+    font-weight: 700;
+    font-family: Poppins;
+}
+#section-2-details p {
+    font-size: 18px;
+    font-family: Poppins;
+    color: #3E3E3E;
+    margin-bottom: 30px;
+}
+#section-2 a {
+    font-size: 18px;
+    font-family: Poppins;
+    color: #FFFFFF;
+    background-color: #FF5959;
+    padding: 10px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+}
  
  /* End CSS of section-2 */
+
+/*--------------------------------------
+        Start CSS of section-3
+ -------------------------------------*/
+ 
+#section-3 {
+    margin-bottom: 30px;
+    padding: 65px 100px;
+    display: flex;
+    background-image: url(../images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: right 330px;
+}
+#section-3 img {
+    width: 400px;
+}
+#section-3-details {
+    padding: 0 130px 0px 0;
+}
+#section-3-details h2 {
+    font-size: 36px;
+    font-weight: 700;
+    font-family: Poppins;
+}
+#section-3-details p {
+    font-size: 18px;
+    font-family: Poppins;
+    color: #3E3E3E;
+    margin-bottom: 30px;
+}
+#section-3 a {
+    font-size: 18px;
+    font-family: Poppins;
+    color: #FFFFFF;
+    background-color: #FF5959;
+    padding: 10px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+ 
+ /* End CSS of section-3 */
+
+
+ /*--------------------------------------
+        Start CSS of section-4
+ -------------------------------------*/
+
+ 
+
+  /* End CSS of section-3 */
