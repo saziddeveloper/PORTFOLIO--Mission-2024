@@ -1,5 +1,5 @@
 # PORTFOLIO--Mission-2024
-PORTFOLIO WEBSITE OF NEW YEAR GOAL
+PORTFOLIO WEBSITE : NEW YEAR GOAL
 
 # Ashaduzzaman Sazid - Web Developer
 
